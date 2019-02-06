@@ -1,4 +1,4 @@
-# Lime Light CRM PHP Client
+# Lime Light CRM v1 PHP Client 
 
 https://www.limelightcrm.com/
 
@@ -16,7 +16,7 @@ composer require kevinem/lime-light-crm-php
 
 ## Documentation
 
-http://help.limelightcrm.com/forums/261931-APIs
+https://developer-prod.limelightcrm.com/
 
 ### Example Usage
 
